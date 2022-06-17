@@ -1,0 +1,14 @@
+[
+  {
+    "package": "MortalityGaps",
+    "oncran": true
+  },
+  {
+    "package": "MortalityLaws",
+    "oncran": true
+  },
+  {
+    "package": "ungroup",
+    "oncran": true
+  }
+]
