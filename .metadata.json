@@ -4,10 +4,11 @@
     "oncran": true
   },
   {
-    "package": "ungroup",
+    "package": "MortalityLaws",
     "oncran": true
   },
   {
-    "package": "MortalityLaws"
+    "package": "ungroup",
+    "oncran": true
   }
 ]
