@@ -13,3 +13,8 @@
 	url = https://github.com/mpascariu/ungroup
 	shallow = true
 	registered = true
+[submodule "MortalityLaws"]
+	path = MortalityLaws
+	url = https://github.com/mpascariu/mortalitylaws
+	shallow = true
+	registered = true

@@ -6,5 +6,8 @@
   {
     "package": "ungroup",
     "oncran": true
+  },
+  {
+    "package": "MortalityLaws"
   }
 ]
