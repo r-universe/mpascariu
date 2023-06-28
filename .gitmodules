@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "MortalityGaps"]
 	path = MortalityGaps
 	url = https://github.com/mpascariu/mortalitygaps
-	shallow = true
-	registered = true
 [submodule "ungroup"]
 	path = ungroup
 	url = https://github.com/mpascariu/ungroup
-	shallow = true
-	registered = true
