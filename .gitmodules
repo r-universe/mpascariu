@@ -5,6 +5,9 @@
 [submodule "MortalityGaps"]
 	path = MortalityGaps
 	url = https://github.com/mpascariu/mortalitygaps
+[submodule "MortalityLaws"]
+	path = MortalityLaws
+	url = https://github.com/mpascariu/mortalitylaws
 [submodule "ungroup"]
 	path = ungroup
 	url = https://github.com/mpascariu/ungroup
